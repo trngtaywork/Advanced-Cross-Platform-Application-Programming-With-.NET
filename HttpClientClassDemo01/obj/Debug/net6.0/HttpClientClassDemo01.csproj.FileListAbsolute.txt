@@ -1,0 +1,15 @@
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\HttpClientClassDemo01\bin\Debug\net6.0\HttpClientClassDemo01.exe
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\HttpClientClassDemo01\bin\Debug\net6.0\HttpClientClassDemo01.deps.json
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\HttpClientClassDemo01\bin\Debug\net6.0\HttpClientClassDemo01.runtimeconfig.json
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\HttpClientClassDemo01\bin\Debug\net6.0\HttpClientClassDemo01.dll
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\HttpClientClassDemo01\bin\Debug\net6.0\HttpClientClassDemo01.pdb
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\HttpClientClassDemo01\obj\Debug\net6.0\HttpClientClassDemo01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\HttpClientClassDemo01\obj\Debug\net6.0\HttpClientClassDemo01.AssemblyInfoInputs.cache
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\HttpClientClassDemo01\obj\Debug\net6.0\HttpClientClassDemo01.AssemblyInfo.cs
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\HttpClientClassDemo01\obj\Debug\net6.0\HttpClientClassDemo01.csproj.CoreCompileInputs.cache
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\HttpClientClassDemo01\obj\Debug\net6.0\HttpClientClassDemo01.sourcelink.json
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\HttpClientClassDemo01\obj\Debug\net6.0\HttpClientClassDemo01.dll
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\HttpClientClassDemo01\obj\Debug\net6.0\refint\HttpClientClassDemo01.dll
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\HttpClientClassDemo01\obj\Debug\net6.0\HttpClientClassDemo01.pdb
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\HttpClientClassDemo01\obj\Debug\net6.0\HttpClientClassDemo01.genruntimeconfig.cache
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\HttpClientClassDemo01\obj\Debug\net6.0\ref\HttpClientClassDemo01.dll

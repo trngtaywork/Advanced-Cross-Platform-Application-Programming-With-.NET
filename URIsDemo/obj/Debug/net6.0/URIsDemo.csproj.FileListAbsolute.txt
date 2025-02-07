@@ -1,0 +1,14 @@
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\URIsDemo\bin\Debug\net6.0\URIsDemo.exe
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\URIsDemo\bin\Debug\net6.0\URIsDemo.deps.json
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\URIsDemo\bin\Debug\net6.0\URIsDemo.runtimeconfig.json
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\URIsDemo\bin\Debug\net6.0\URIsDemo.dll
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\URIsDemo\bin\Debug\net6.0\URIsDemo.pdb
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\URIsDemo\obj\Debug\net6.0\URIsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\URIsDemo\obj\Debug\net6.0\URIsDemo.AssemblyInfoInputs.cache
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\URIsDemo\obj\Debug\net6.0\URIsDemo.AssemblyInfo.cs
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\URIsDemo\obj\Debug\net6.0\URIsDemo.csproj.CoreCompileInputs.cache
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\URIsDemo\obj\Debug\net6.0\URIsDemo.dll
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\URIsDemo\obj\Debug\net6.0\refint\URIsDemo.dll
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\URIsDemo\obj\Debug\net6.0\URIsDemo.pdb
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\URIsDemo\obj\Debug\net6.0\URIsDemo.genruntimeconfig.cache
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\URIsDemo\obj\Debug\net6.0\ref\URIsDemo.dll
