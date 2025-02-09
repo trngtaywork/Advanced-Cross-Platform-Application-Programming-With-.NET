@@ -1,0 +1,15 @@
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\Demonstration01\bin\Debug\net6.0\Demonstration01.exe
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\Demonstration01\bin\Debug\net6.0\Demonstration01.deps.json
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\Demonstration01\bin\Debug\net6.0\Demonstration01.runtimeconfig.json
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\Demonstration01\bin\Debug\net6.0\Demonstration01.dll
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\Demonstration01\bin\Debug\net6.0\Demonstration01.pdb
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\Demonstration01\obj\Debug\net6.0\Demonstration01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\Demonstration01\obj\Debug\net6.0\Demonstration01.AssemblyInfoInputs.cache
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\Demonstration01\obj\Debug\net6.0\Demonstration01.AssemblyInfo.cs
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\Demonstration01\obj\Debug\net6.0\Demonstration01.csproj.CoreCompileInputs.cache
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\Demonstration01\obj\Debug\net6.0\Demonstration01.sourcelink.json
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\Demonstration01\obj\Debug\net6.0\Demonstration01.dll
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\Demonstration01\obj\Debug\net6.0\refint\Demonstration01.dll
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\Demonstration01\obj\Debug\net6.0\Demonstration01.pdb
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\Demonstration01\obj\Debug\net6.0\Demonstration01.genruntimeconfig.cache
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\Demonstration01\obj\Debug\net6.0\ref\Demonstration01.dll

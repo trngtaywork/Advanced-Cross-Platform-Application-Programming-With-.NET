@@ -1,0 +1,15 @@
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\AsynchronousDemonstration01\obj\Debug\net6.0\AsynchronousDemonstration01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\AsynchronousDemonstration01\obj\Debug\net6.0\AsynchronousDemonstration01.AssemblyInfoInputs.cache
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\AsynchronousDemonstration01\obj\Debug\net6.0\AsynchronousDemonstration01.AssemblyInfo.cs
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\AsynchronousDemonstration01\obj\Debug\net6.0\AsynchronousDemonstration01.csproj.CoreCompileInputs.cache
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\AsynchronousDemonstration01\obj\Debug\net6.0\AsynchronousDemonstration01.sourcelink.json
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\AsynchronousDemonstration01\bin\Debug\net6.0\AsynchronousDemonstration01.exe
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\AsynchronousDemonstration01\bin\Debug\net6.0\AsynchronousDemonstration01.deps.json
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\AsynchronousDemonstration01\bin\Debug\net6.0\AsynchronousDemonstration01.runtimeconfig.json
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\AsynchronousDemonstration01\bin\Debug\net6.0\AsynchronousDemonstration01.dll
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\AsynchronousDemonstration01\bin\Debug\net6.0\AsynchronousDemonstration01.pdb
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\AsynchronousDemonstration01\obj\Debug\net6.0\AsynchronousDemonstration01.dll
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\AsynchronousDemonstration01\obj\Debug\net6.0\refint\AsynchronousDemonstration01.dll
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\AsynchronousDemonstration01\obj\Debug\net6.0\AsynchronousDemonstration01.pdb
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\AsynchronousDemonstration01\obj\Debug\net6.0\AsynchronousDemonstration01.genruntimeconfig.cache
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\AsynchronousDemonstration01\obj\Debug\net6.0\ref\AsynchronousDemonstration01.dll

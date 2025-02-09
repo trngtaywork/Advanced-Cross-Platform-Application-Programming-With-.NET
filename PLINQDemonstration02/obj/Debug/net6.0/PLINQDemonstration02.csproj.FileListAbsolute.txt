@@ -1,0 +1,15 @@
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\PLINQDemonstration02\bin\Debug\net6.0\PLINQDemonstration02.exe
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\PLINQDemonstration02\bin\Debug\net6.0\PLINQDemonstration02.deps.json
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\PLINQDemonstration02\bin\Debug\net6.0\PLINQDemonstration02.runtimeconfig.json
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\PLINQDemonstration02\bin\Debug\net6.0\PLINQDemonstration02.dll
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\PLINQDemonstration02\bin\Debug\net6.0\PLINQDemonstration02.pdb
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\PLINQDemonstration02\obj\Debug\net6.0\PLINQDemonstration02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\PLINQDemonstration02\obj\Debug\net6.0\PLINQDemonstration02.AssemblyInfoInputs.cache
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\PLINQDemonstration02\obj\Debug\net6.0\PLINQDemonstration02.AssemblyInfo.cs
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\PLINQDemonstration02\obj\Debug\net6.0\PLINQDemonstration02.csproj.CoreCompileInputs.cache
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\PLINQDemonstration02\obj\Debug\net6.0\PLINQDemonstration02.sourcelink.json
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\PLINQDemonstration02\obj\Debug\net6.0\PLINQDemonstration02.dll
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\PLINQDemonstration02\obj\Debug\net6.0\refint\PLINQDemonstration02.dll
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\PLINQDemonstration02\obj\Debug\net6.0\PLINQDemonstration02.pdb
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\PLINQDemonstration02\obj\Debug\net6.0\PLINQDemonstration02.genruntimeconfig.cache
+D:\Project\VisualStudioProjects\PRN222\Demo\PRN222Demo\PLINQDemonstration02\obj\Debug\net6.0\ref\PLINQDemonstration02.dll
